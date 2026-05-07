@@ -1,3 +1,7 @@
+---
+description: go fmt + go vet pre-flight then conventional commit
+---
+
 Create a conventional commit for staged changes in paycent-telegram-bot.
 
 Steps:

@@ -1,3 +1,7 @@
+---
+description: Route a GitHub issue to /bug, /feature, or /chore
+---
+
 Classify GitHub issue #$ARGUMENTS and route it to the right workflow.
 
 Steps:

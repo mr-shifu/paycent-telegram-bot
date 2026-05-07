@@ -1,3 +1,7 @@
+---
+description: Create a structured PR with bot review checklist
+---
+
 Create a pull request for the current branch in paycent-telegram-bot.
 
 Steps:

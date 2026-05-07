@@ -1,3 +1,7 @@
+---
+description: Plan a new bot feature — writes spec to specs/ before any code
+---
+
 Plan a new feature for paycent-telegram-bot: $ARGUMENTS
 
 Read @AGENTS.md first. Do not write any code yet.

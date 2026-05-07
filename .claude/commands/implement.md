@@ -1,3 +1,7 @@
+---
+description: Execute a plan from specs/
+---
+
 Implement the plan from: $ARGUMENTS
 
 If no argument given, list all files in specs/ and ask which to implement.

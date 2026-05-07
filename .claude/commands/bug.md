@@ -1,3 +1,7 @@
+---
+description: Plan a surgical bug fix — minimal changes, root cause focused
+---
+
 Plan a surgical bug fix for paycent-telegram-bot: $ARGUMENTS
 
 Read @AGENTS.md first. Do not write any code yet.

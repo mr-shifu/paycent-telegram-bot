@@ -1,3 +1,7 @@
+---
+description: Run the AGENTS.md review checklist against current changes
+---
+
 Run the AGENTS.md review checklist against current changes in paycent-telegram-bot.
 
 Steps:

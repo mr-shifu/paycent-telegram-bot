@@ -1,3 +1,7 @@
+---
+description: Scaffold a new Telegram bot command handler
+---
+
 Scaffold a new Telegram bot command: $ARGUMENTS
 
 Expected format: `/<command> <args> — <description>`

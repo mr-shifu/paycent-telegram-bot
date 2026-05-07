@@ -1,3 +1,7 @@
+---
+description: Create a GitHub issue with structured body
+---
+
 Create a GitHub issue for paycent-telegram-bot: $ARGUMENTS
 
 Steps:

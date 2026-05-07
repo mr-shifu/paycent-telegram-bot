@@ -1,3 +1,7 @@
+---
+description: Load project context, check git state, summarize understanding
+---
+
 Read the following in order:
 1. @AGENTS.md — full project context and architecture
 2. @cmd/main.go — entry point
